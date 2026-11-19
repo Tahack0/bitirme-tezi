@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ===== Koyu modern palet ===== -->
+
+    <!-- Zemin -->
+    <color name="bg_screen">#0F172A</color>          <!-- slate-900 -->
+    <color name="bg_screen_deeper">#020617</color>   <!-- slate-950 -->
+
+    <!-- Kartlar / yüzeyler -->
+    <color name="bg_card">#1E293B</color>            <!-- slate-800 -->
+    <color name="bg_card_elevated">#334155</color>   <!-- slate-700 -->
+    <color name="bg_chip">#334155</color>            <!-- slate-700 -->
+
+    <!-- Stroke / ayırıcı çizgiler -->
+    <color name="stroke_subtle">#1F2937</color>      <!-- gray-800 -->
+    <color name="stroke_card">#334155</color>        <!-- slate-700 -->
+
+    <!-- Metin -->
+    <color name="text_primary">#F8FAFC</color>       <!-- slate-50 -->
+    <color name="text_secondary">#94A3B8</color>     <!-- slate-400 -->
+    <color name="text_tertiary">#64748B</color>      <!-- slate-500 -->
+
+    <!-- Marka - teal aile -->
+    <color name="brand_primary">#14B8A6</color>      <!-- teal-500 -->
+    <color name="brand_primary_dark">#0F766E</color> <!-- teal-700 -->
+    <color name="brand_primary_light">#5EEAD4</color><!-- teal-300 -->
+
+    <!-- İkincil aksan - indigo -->
+    <color name="accent_indigo">#6366F1</color>      <!-- indigo-500 -->
+    <color name="accent_indigo_dark">#4338CA</color> <!-- indigo-700 -->
+    <color name="accent_indigo_light">#A5B4FC</color><!-- indigo-300 -->
+
+    <!-- Tespit kutusu (overlay) -->
+    <color name="detection_box">#10B981</color>      <!-- emerald-500 -->
+    <color name="detection_label_bg">#CC10B981</color>
+    <color name="detection_text">#FFFFFF</color>
+
+    <!-- Scrim -->
+    <color name="scrim_top">#B30F172A</color>        <!-- koyu yarı saydam -->
+</resources>

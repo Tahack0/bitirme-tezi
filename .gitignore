@@ -1,0 +1,8 @@
+Thumbs.db
+.env
+local.properties
+__pycache__/
+.venv/
+.gradle/
+build/
+VeriSeti/

@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">MedScan</string>
+
+    <!-- MainActivity -->
+    <string name="title_main">İlaç Tanıma</string>
+    <string name="ai_badge">AI</string>
+    <string name="subtitle_main">YOLOv11n tabanlı kutu tespiti</string>
+    <string name="btn_camera">Kamera (Canlı)</string>
+    <string name="btn_camera_desc">Telefon kamerasıyla anlık tespit</string>
+    <string name="btn_gallery">Galeriden Video Seç</string>
+    <string name="btn_gallery_desc">Önceden çekilmiş bir videoyu etiketle</string>
+    <string name="footer_info">YOLOv11n · 56 sınıf · Yerel SQLite</string>
+
+    <!-- CameraActivity -->
+    <string name="title_camera">Canlı Tespit</string>
+    <string name="hint_camera_no_detection">İlaç kutusunu kameraya gösterin…</string>
+    <string name="permission_camera_denied">Kamera izni reddedildi. Ayarlardan izin verin.</string>
+
+    <!-- GalleryActivity -->
+    <string name="title_gallery">Video Üzerinde Tespit</string>
+    <string name="btn_pick_video">Video Seç</string>
+    <string name="btn_play">Oynat</string>
+    <string name="btn_pause">Durdur</string>
+    <string name="hint_pick_video">Galeriden bir video seçerek başlayın</string>
+
+    <!-- Info card -->
+    <string name="label_what_for">Ne işe yarar?</string>
+    <string name="label_used_for">Ne için kullanılır?</string>
+    <string name="label_no_db_info">Bu ilaç için veritabanında bilgi bulunamadı.</string>
+
+    <!-- Errors -->
+    <string name="error_model_load">Model yüklenemedi: %1$s</string>
+    <string name="error_video_open">Video açılamadı (kodek desteklenmiyor olabilir).</string>
+
+    <!-- Generic -->
+    <string name="back">Geri</string>
+    <string name="stats_boxes">%1$d kutu</string>
+    <string name="page_indicator">%1$d / %2$d</string>
+    <string name="confidence_pct">%1$d%%</string>
+    <string name="bullet_item">%1$s</string>
+    <string name="fps_stats">%.1f FPS %d kutu</string>
+</resources>
